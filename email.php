@@ -11,6 +11,7 @@ echo "<br>Fone: " . $fone;
 ?>
 <div class="alert alert-success" role="alert">
   Enviado com Sucesso!
+  </div>
 <?php
 include("rodape.php");
  ?>
